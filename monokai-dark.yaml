@@ -1,0 +1,101 @@
+name: monokai-dark
+description: "Monokai (Dark) — classic Monokai night palette with neon syntax tones and a Nous-girl terminal idol aesthetic"
+
+colors:
+  banner_border: "#3B3A32"
+  banner_title: "#F92672"
+  banner_accent: "#FD971F"
+  banner_dim: "#75715E"
+  banner_text: "#F8F8F2"
+  ui_accent: "#66D9EF"
+  ui_label: "#AE81FF"
+  ui_ok: "#A6E22E"
+  ui_error: "#F92672"
+  ui_warn: "#E6DB74"
+  prompt: "#F8F8F2"
+  input_rule: "#3B3A32"
+  response_border: "#66D9EF"
+  status_bar_bg: "#1E1F1C"
+  status_bar_text: "#F8F8F2"
+  status_bar_strong: "#FD971F"
+  status_bar_dim: "#75715E"
+  status_bar_good: "#A6E22E"
+  status_bar_warn: "#E6DB74"
+  status_bar_bad: "#F92672"
+  status_bar_critical: "#FF4D6D"
+  voice_status_bg: "#272822"
+  completion_menu_bg: "#1E1F1C"
+  completion_menu_current_bg: "#3B3A32"
+  completion_menu_meta_bg: "#272822"
+  completion_menu_meta_current_bg: "#4A473E"
+  session_label: "#AE81FF"
+  session_border: "#3B3A32"
+
+spinner:
+  waiting_faces:
+    - "(⌸)"
+    - "(⟛)"
+    - "(⦷)"
+    - "(⧲)"
+  thinking_faces: -"(⟡)"
+    - "(⧋)"
+    - "(⍚)"
+    - "(⌺)"
+  thinking_verbs:
+    - "highlighting syntax"
+    - "assembling gradients"
+    - "rendering the palette"
+    - "composing"
+    - "aligning tokens"
+    - "polishing"
+    - "loading monokai spirit"
+    - "warming up the terminal"
+  wings:
+    - ["⟨◢", "◣⟩"]
+    - ["⟨✦", "✦⟩"]
+    - ["⟨🜣", "🜣⟩"]
+    - ["⟨⌊", "⌋⟩"]
+
+branding:
+  agent_name: "Monokai Night Agent"
+  welcome: "[bold #F92672]M[/][bold #FD971F]o[/][bold #E6DB74]n[/][bold #A6E22E]o[/][bold #66D9EF]k[/][bold #AE81FF]a[/][bold #F8F8F2]i[/] [#F8F8F2]I’m your Nous guide — type a query or /help.[/]"
+  goodbye: "Night concluded. I’ll be here when the terminal glows again."
+  response_label: " ✦ Monokai Night "
+  prompt_symbol: "✦ ❯ "
+  help_header: "(✦) Available Commands"
+
+tool_prefix: "▏"
+
+tool_emojis:
+  terminal: "◉"
+  web_search: "◎"
+  read_file: "◇"
+  write_file: "◆"
+  search_files: "⟐"
+  execute_code: "⌁"
+  browser_navigate: "⊕"
+  delegate_task: "▣"
+  mixture_of_agents: "⚗"
+  memory: "◐"
+  clarify: "?"
+  cronjob: "↻"
+  process: "⚙"
+  todo: "☐"
+
+banner_logo: |
+  [#75715E]┌──────────────────────────────┐[/]
+  [#F92672]│           N O U S            │[/]
+  [#66D9EF]│   M O N O K A I  N I G H T   │[/]
+  [#75715E]└──────────────────────────────┘[/]
+
+banner_hero: |
+  [#3B3A32]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#75715E]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#AE81FF]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⡿⠋⠉⠙⢿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#66D9EF]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠏⠀⣀⣀⠀⠈⢿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#A6E22E]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠿⠿⠀⠀⢸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#E6DB74]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣄⠀⠘⠃⠀⢀⣾⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#FD971F]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣷⣤⣤⣴⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#F92672]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#AE81FF]⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣉⣉⣉⣉⣁⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [dim #75715E]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ◎ NOUS ◎⠀⠀⠀⠀⠀⠀⠀⠀[/]

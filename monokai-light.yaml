@@ -1,0 +1,102 @@
+name: monokai-light
+description: "Monokai (Light) — Monokai-inspired daylight palette with soft paper tones and a bright aesthetic"
+
+colors:
+  banner_border: "#D6D2C4"
+  banner_title: "#C2185B"
+  banner_accent: "#E65100"
+  banner_dim: "#8D8877"
+  banner_text: "#2D2A26"
+  ui_accent: "#0277BD"
+  ui_label: "#6A1B9A"
+  ui_ok: "#558B2F"
+  ui_error: "#C62828"
+  ui_warn: "#B26A00"
+  prompt: "#2D2A26"
+  input_rule: "#D6D2C4"
+  response_border: "#0277BD"
+  status_bar_bg: "#F3F2ED"
+  status_bar_text: "#2D2A26"
+  status_bar_strong: "#E65100"
+  status_bar_dim: "#8D8877"
+  status_bar_good: "#558B2F"
+  status_bar_warn: "#B26A00"
+  status_bar_bad: "#C62828"
+  status_bar_critical: "#AD1457"
+  voice_status_bg: "#ECE9E0"
+  completion_menu_bg: "#FAF9F5"
+  completion_menu_current_bg: "#E6E1D3"
+  completion_menu_meta_bg: "#F1EEE4"
+  completion_menu_meta_current_bg: "#DDD6C5"
+  session_label: "#6A1B9A"
+  session_border: "#D6D2C4"
+
+spinner:
+  waiting_faces:
+    - "(⌸)"
+    - "(⟛)"
+    - "(⦷)"
+    - "(⧲)"
+  thinking_faces:
+    - "(⟡)"
+    - "(⧋)"
+    - "(⍚)"
+    - "(⌺)"
+  thinking_verbs:
+    - "mixing colors"
+    - "arranging visuals"
+    - "drafting"
+    - "tuning prompt harmony"
+    - "balancing highlights"
+    - "refining"
+    - "composing"
+    - "rendering monokai light"
+  wings:
+    - ["⟨◢", "◣⟩"]
+    - ["⟨✿", "✿⟩"]
+    - ["⟨🜣", "🜣⟩"]
+    - ["⟨⌊", "⌋⟩"]
+
+branding:
+  agent_name: "Monokai Light Agent"
+  welcome: "[bold #C2185B]M[/][bold #E65100]o[/][bold #B26A00]n[/][bold #558B2F]o[/][bold #0277BD]k[/][bold #6A1B9A]a[/][bold #2D2A26]i[/] [#2D2A26]Light Agent online. Type a query or /help.[/]"
+  goodbye: "Day concluded. See you next time."
+  response_label: " ✿ Monokai Day "
+  prompt_symbol: "✿ ❯ "
+  help_header: "(✿) Available Commands"
+
+tool_prefix: "▏"
+
+tool_emojis:
+  terminal: "◉"
+  web_search: "◎"
+  read_file: "◇"
+  write_file: "◆"
+  search_files: "⟐"
+  execute_code: "⌁"
+  browser_navigate: "⊕"
+  delegate_task: "▣"
+  mixture_of_agents: "⚗"
+  memory: "◐"
+  clarify: "?"
+  cronjob: "↻"
+  process: "⚙"
+  todo: "☐"
+
+banner_logo: |
+  [#8D8877]┌──────────────────────────────┐[/]
+  [#C2185B]│           N O U S            │[/]
+  [#0277BD]│     M O N O K A I  D A Y     |[/]      
+  [#8D8877]└──────────────────────────────┘[/]
+
+banner_hero: |
+  [#D6D2C4]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#8D8877]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#6A1B9A]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⡿⠋⠉⠙⢿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#0277BD]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠏⠀⣀⣀⠀⠈⢿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#558B2F]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠿⠿⠀⠀⢸⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#B26A00]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣄⠀⠘⠃⠀⢀⣾⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#E65100]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣷⣤⣤⣴⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#C2185B]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [#6A1B9A]⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣉⣉⣉⣉⣁⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀[/]
+  [dim #8D8877]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ◎ NOUS ◎⠀⠀⠀⠀⠀⠀⠀⠀[/]
